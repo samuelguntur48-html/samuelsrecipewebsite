@@ -10,6 +10,10 @@
         margin: auto;
         width: 1000px;
     }
+    
+     .hidden {
+        display: none;
+    }
 
 
 /* Nav Bar */
@@ -58,3 +62,4 @@
     .li_recipes a:hover {
         background-color: aliceblue;
     }
+
